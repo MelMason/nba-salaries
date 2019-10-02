@@ -4,6 +4,10 @@
 Project Description: We will investigate whether certain factors contributed to a NBA players salary earnings. 
 
 To RUN: Execute main.ipynb in Jupypter Notebook
+When you run main, it will execute each section of code (cleaning and analysis), one attribute at a time.
+
+Most of our DATA analysis is from Kaggle Datasets (other sources listed below)
+https://www.kaggle.com/liujiaqi/nba-player-social-power-performance-effect
 
 Research Question to Answer: 
   - What attributes contribute to the salaries of NBA players?
