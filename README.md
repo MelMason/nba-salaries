@@ -2,6 +2,7 @@
 #NBA SALARY INSIGHT
 
 Project Description: We will investigate whether certain factors contributed to a NBA players salary earnings. 
+
 To RUN: Execute main.ipynb in Jupypter Notebook
 
 Research Question to Answer: 
